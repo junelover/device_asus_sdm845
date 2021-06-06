@@ -1,0 +1,20 @@
+[
+  {
+    "repository"  : "LineageOS/android_device_asus_common",
+    "target_path" : "device/asus/common",
+    "branch"      : "lineage-18.1",
+    "remote"      : "github"
+  },
+  {
+    "repository"  : "LineageOS/android_kernel_oasus_sdm845",
+    "target_path" : "kernel/asus/sdm845",
+    "branch"      : "lineage-18.1",
+    "remote"      : "github"
+  },
+  {
+    "repository"  : "vendor_asus_sdm845-common",
+    "target_path" : "vendor/asus/sdm845-common",
+    "branch"      : "eleven",
+    "remote"      : "pixel-devices-blobs"
+  }
+]
