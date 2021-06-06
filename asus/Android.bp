@@ -1,0 +1,9 @@
+java_library {
+    name: "asus-mock",
+    owner: "omni",
+    installable: true,
+
+    srcs: [
+        "src/*/*/*/*.java",
+    ],
+}
